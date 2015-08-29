@@ -6,6 +6,7 @@
   "description": "A simple helper for Joola",
   "dependencies": {
     "bang": "^1.0.4",
+    "cheerio": "^0.19.0",
     "hubot": "^2.15.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
@@ -19,7 +20,8 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
-    "pb-hubot": "0.0.3"
+    "pb-hubot": "0.0.3",
+    "shellwords": "^0.1.0"
   },
   "engines": {
     "node": "0.10.x"

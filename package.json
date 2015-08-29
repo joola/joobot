@@ -5,6 +5,7 @@
   "author": "Itay Weinberger <itay@joo.la>",
   "description": "A simple helper for Joola",
   "dependencies": {
+    "bang": "^1.0.4",
     "hubot": "^2.15.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
